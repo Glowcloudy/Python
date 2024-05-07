@@ -1,0 +1,13 @@
+studing to Machin Leaning and Deep Learning and basic Mathmatics
+- CNN
+-  - Dense layer
+     - Affine function
+     - Activation function
+     - logit
+     - Logistic Regression
+  - Softmax
+  -  DataSet
+  -  Mean Square Error
+  -  Binary Cross Entropy
+  -  Sparse Categorical Cross Entropy
+  -  Categorical Cross Entropy
