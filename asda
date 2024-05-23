@@ -1,0 +1,236 @@
+[33mcommit 0cbeed00b7f355a72e428aaf639cb6821d4d88f8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Reflog: HEAD@{0} (hongmunbong <mbhong@swm.ai>)
+Reflog message: checkout: moving from Algorithm to master
+Author: Glowcloudy <hmb91@naver.com>
+Date:   Wed May 22 21:34:00 2024 +0900
+
+    basic and visualization complete
+
+[33mcommit 7a956add3e10130f1198f4579d4050b09787b427[m[33m ([m[1;31morigin/Algorithm[m[33m, [m[1;32mAlgorithm[m[33m)[m
+Reflog: HEAD@{1} (hongmunbong <mbhong@swm.ai>)
+Reflog message: pull origin Algorithm: Fast-forward
+Author: Glowcloudy <162809485+Glowcloudy@users.noreply.github.com>
+Date:   Thu May 23 17:19:02 2024 +0900
+
+    Delete ML directory
+
+[33mcommit 1761eb64f36c681186eb891770b73e671abb4e6e[m
+Reflog: HEAD@{2} (hongmunbong <mbhong@swm.ai>)
+Reflog message: checkout: moving from Algorithm to Algorithm
+Author: hongmunbong <mbhong@swm.ai>
+Date:   Thu May 23 17:15:19 2024 +0900
+
+    lectur_16 complete
+
+[33mcommit 1761eb64f36c681186eb891770b73e671abb4e6e[m
+Reflog: HEAD@{3} (hongmunbong <mbhong@swm.ai>)
+Reflog message: checkout: moving from Algorithm to Algorithm
+Author: hongmunbong <mbhong@swm.ai>
+Date:   Thu May 23 17:15:19 2024 +0900
+
+    lectur_16 complete
+
+[33mcommit 1761eb64f36c681186eb891770b73e671abb4e6e[m
+Reflog: HEAD@{4} (hongmunbong <mbhong@swm.ai>)
+Reflog message: checkout: moving from Algorithm to Algorithm
+Author: hongmunbong <mbhong@swm.ai>
+Date:   Thu May 23 17:15:19 2024 +0900
+
+    lectur_16 complete
+
+[33mcommit 1761eb64f36c681186eb891770b73e671abb4e6e[m
+Reflog: HEAD@{5} (hongmunbong <mbhong@swm.ai>)
+Reflog message: commit: lectur_16 complete
+Author: hongmunbong <mbhong@swm.ai>
+Date:   Thu May 23 17:15:19 2024 +0900
+
+    lectur_16 complete
+
+[33mcommit 0cbeed00b7f355a72e428aaf639cb6821d4d88f8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Reflog: HEAD@{6} (hongmunbong <mbhong@swm.ai>)
+Reflog message: checkout: moving from master to Algorithm
+Author: Glowcloudy <hmb91@naver.com>
+Date:   Wed May 22 21:34:00 2024 +0900
+
+    basic and visualization complete
+
+[33mcommit 0cbeed00b7f355a72e428aaf639cb6821d4d88f8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Reflog: HEAD@{7} (hongmunbong <mbhong@swm.ai>)
+Reflog message: pull --tags origin master: Fast-forward
+Author: Glowcloudy <hmb91@naver.com>
+Date:   Wed May 22 21:34:00 2024 +0900
+
+    basic and visualization complete
+
+[33mcommit 1fbfe1ac06513c0ac3a3c04b30a6f5dc4c3c8675[m
+Reflog: HEAD@{8} (hongmunbong <mbhong@swm.ai>)
+Reflog message: pull --tags origin master: Fast-forward
+Author: Glowcloudy <hmb91@naver.com>
+Date:   Tue May 21 21:21:05 2024 +0900
+
+    list to transpose complete
+
+[33mcommit 5c4d2eb734d85c505e7d007a667c9658ac38b2d3[m
+Reflog: HEAD@{9} (hongmunbong <mbhong@swm.ai>)
+Reflog message: pull --tags origin master: Fast-forward
+Author: Glowcloudy <hmb91@naver.com>
+Date:   Sun May 19 19:59:08 2024 +0900
+
+    update algorithm in array for python
+
+[33mcommit fe4930869e0eebd1472c8e4a882d6b1ec131af80[m
+Reflog: HEAD@{10} (hongmunbong <mbhong@swm.ai>)
+Reflog message: commit: modific syntax for lecture3
+Author: hongmunbong <mbhong@swm.ai>
+Date:   Fri May 17 17:08:15 2024 +0900
+
+    modific syntax for lecture3
+
+[33mcommit d2de88463c75239a63197f8d7a162b2a8f225a90[m
+Reflog: HEAD@{11} (hongmunbong <mbhong@swm.ai>)
+Reflog message: commit: lecture_15 complete
+Author: hongmunbong <mbhong@swm.ai>
+Date:   Fri May 17 14:53:08 2024 +0900
+
+    lecture_15 complete
+
+[33mcommit dee5181cf7c21120a4348cc3753ebc97b3b79a48[m
+Reflog: HEAD@{12} (hongmunbong <mbhong@swm.ai>)
+Reflog message: commit: modifiy comment
+Author: hongmunbong <mbhong@swm.ai>
+Date:   Thu May 16 17:05:01 2024 +0900
+
+    modifiy comment
+
+[33mcommit 58d56a0821a630e9bd0e5335996adc27df2535b5[m
+Reflog: HEAD@{13} (hongmunbong <mbhong@swm.ai>)
+Reflog message: commit: additional comment
+Author: hongmunbong <mbhong@swm.ai>
+Date:   Thu May 16 17:01:06 2024 +0900
+
+    additional comment
+
+[33mcommit d38bafc513a234b1ebb42c613b2b527cb88b5fab[m
+Reflog: HEAD@{14} (hongmunbong <mbhong@swm.ai>)
+Reflog message: commit: lecture_15 continue
+Author: hongmunbong <mbhong@swm.ai>
+Date:   Thu May 16 15:39:49 2024 +0900
+
+    lecture_15 continue
+
+[33mcommit f2adf4a00b4e58d921649140ae2b9309965d6429[m
+Reflog: HEAD@{15} (hongmunbong <mbhong@swm.ai>)
+Reflog message: pull --tags origin master: Fast-forward
+Author: Glowcloudy <hmb91@naver.com>
+Date:   Sat May 11 21:22:55 2024 +0900
+
+    Modify Excersize
+
+[33mcommit 6d559ac1f8968fac9de40170e0ef8fee47b57937[m
+Reflog: HEAD@{16} (hongmunbong <mbhong@swm.ai>)
+Reflog message: commit: lectur_14 Complete and lecture_15 studying
+Author: hongmunbong <mbhong@swm.ai>
+Date:   Thu May 9 16:28:25 2024 +0900
+
+    lectur_14 Complete and lecture_15 studying
+
+[33mcommit 3e346f7d1a3759c8720442ba0d936ed943893189[m
+Reflog: HEAD@{17} (hongmunbong <mbhong@swm.ai>)
+Reflog message: commit: lecture_13 complete
+Author: hongmunbong <mbhong@swm.ai>
+Date:   Wed May 8 16:56:00 2024 +0900
+
+    lecture_13 complete
+
+[33mcommit 38121381641aa6863aea1751e5a42c1acf57feb5[m
+Reflog: HEAD@{18} (hongmunbong <mbhong@swm.ai>)
+Reflog message: pull --tags origin master: Merge made by the 'ort' strategy.
+Merge: 8fc1f00 374728d
+Author: hongmunbong <mbhong@swm.ai>
+Date:   Tue May 7 16:40:11 2024 +0900
+
+    Merge branch 'master' of https://github.com/Glowcloudy/pyhon
+
+[33mcommit 8fc1f002a2c647b02d8679cf893221c4f63157ef[m
+Reflog: HEAD@{19} (hongmunbong <mbhong@swm.ai>)
+Reflog message: commit: modify
+Author: hongmunbong <mbhong@swm.ai>
+Date:   Tue May 7 16:40:08 2024 +0900
+
+    modify
+
+[33mcommit 1f57f533ad01761d037a054a1f44b045c6ca1a25[m
+Reflog: HEAD@{20} (hongmunbong <mbhong@swm.ai>)
+Reflog message: commit: lectur_11/12 complete and modify jacobian_Ch_04
+Author: hongmunbong <mbhong@swm.ai>
+Date:   Tue May 7 16:21:49 2024 +0900
+
+    lectur_11/12 complete and modify jacobian_Ch_04
+
+[33mcommit 8f5a952f83347ade98a0cf28952d262077c64c03[m
+Reflog: HEAD@{21} (hongmunbong <mbhong@swm.ai>)
+Reflog message: commit: Create annotation
+Author: hongmunbong <mbhong@swm.ai>
+Date:   Tue May 7 11:25:38 2024 +0900
+
+    Create annotation
+
+[33mcommit 9c61fdac36db7f439e34e3c33a4baa5fef2aa805[m
+Reflog: HEAD@{22} (hongmunbong <mbhong@swm.ai>)
+Reflog message: pull --tags origin master: Fast-forward
+Author: Glowcloudy <hmb91@naver.com>
+Date:   Mon May 6 21:08:12 2024 +0900
+
+    Jacobian_Ch_04 Complete
+
+[33mcommit 1e5f55476fd46370622bb1202a8249325ccf5851[m
+Reflog: HEAD@{23} (hongmunbong <mbhong@swm.ai>)
+Reflog message: commit: lecture_10 created
+Author: hongmunbong <mbhong@swm.ai>
+Date:   Fri May 3 17:10:40 2024 +0900
+
+    lecture_10 created
+
+[33mcommit b144e0f281e9dc9463ae083104ef0cc3042c9751[m
+Reflog: HEAD@{24} (hongmunbong <mbhong@swm.ai>)
+Reflog message: commit: lectur_9 complete
+Author: hongmunbong <mbhong@swm.ai>
+Date:   Thu May 2 17:10:25 2024 +0900
+
+    lectur_9 complete
+
+[33mcommit a7b45fdf1fb7f257af78d1c32acd46c2561c5f6c[m
+Reflog: HEAD@{25} (hongmunbong <mbhong@swm.ai>)
+Reflog message: commit: modify_for_project_name_contents
+Author: hongmunbong <mbhong@swm.ai>
+Date:   Tue Apr 30 16:53:08 2024 +0900
+
+    modify_for_project_name_contents
+
+[33mcommit 172fa5fbe3087d355f2acc999eb0cfd172dfa211[m
+Reflog: HEAD@{26} (hongmunbong <mbhong@swm.ai>)
+Reflog message: commit: lectur_8 Complete
+Author: hongmunbong <mbhong@swm.ai>
+Date:   Tue Apr 30 14:15:27 2024 +0900
+
+    lectur_8 Complete
+
+[33mcommit 3ffc8f7a6ac914924c9b671cde57d2bf5c1b91eb[m
+Reflog: HEAD@{27} (hongmunbong <mbhong@swm.ai>)
+Reflog message: commit: chage_position_for_excersize2-1
+Author: hongmunbong <mbhong@swm.ai>
+Date:   Tue Apr 30 09:40:26 2024 +0900
+
+    chage_position_for_excersize2-1
+
+[33mcommit 17fd8ee06fc418986d271c7241bdb7f6fb10978a[m
+Reflog: HEAD@{28} (hongmunbong <mbhong@swm.ai>)
+Reflog message: pull --tags origin master: Merge made by the 'ort' strategy.
+Merge: f56f93c 25ba07a
+Author: hongmunbong <mbhong@swm.ai>
+Date:   Tue Apr 30 09:39:19 2024 +0900
+
+    Merge branch 'master' of https://github.com/Glowcloudy/pyhon
+
+[33mcommit f56f93c3f8201cc123d430a136d1f8f97ae22b8b[m
+Reflog: HEAD@{29} (hongmunbong <mbhong@swm.ai>
